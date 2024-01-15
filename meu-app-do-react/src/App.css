@@ -1,0 +1,19 @@
+.cards{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-around;
+}
+.card{
+    background-color: blueviolet;
+    border-radius: 3%;
+    padding: 2%;
+}
+.BarraExplorar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    padding: 2%;
+    background-color: blue;
+}
